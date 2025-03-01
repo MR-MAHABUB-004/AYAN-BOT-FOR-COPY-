@@ -36,16 +36,16 @@
   },
   "adminBot": [
     "",
-    "61572491867501"
+    "61564913640716"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61572491867501"
+      ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🕸️ SpideY 🕷️",
+  "nickNameBot": "My love",
   "prefix": ".",
   "BaYjidnapi": "",
   "api": "",
